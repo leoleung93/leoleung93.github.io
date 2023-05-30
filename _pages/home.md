@@ -13,7 +13,7 @@ I am a data scientist with 6+ years of experience with machine learning and adva
 
 ## Work Experience
 
-### Assistant Manager, BI Data Science | [WeLab Bank](https://www.welab.bank/en/)
+Assistant Manager, BI Data Science | [WeLab Bank](https://www.welab.bank/en/)
 :   Python/SQL/Google Cloud Platform: BigQuery, dbt, Looker, Vertex AI  
 Provided end-to-end data science solutions for digital banking with the latest technology  
 
@@ -23,8 +23,8 @@ Implemented advanced analytics and Machine learning models to solve different bu
 with CI/CD and Confluence
 * Led the chatbot optimization project
 
-### Senior Data Analyst | [Bupa](https://www.bupa.com.hk/en/)
-### Data Analyst | [Bupa](https://www.bupa.com.hk/en/)
+#### Senior Data Analyst | [Bupa](https://www.bupa.com.hk/en/)
+Data Analyst | [Bupa](https://www.bupa.com.hk/en/)
 :   MS SQL/Python/PowerBI/R/SAS  
 * Implemented ARIMA Time Series Analysis to forecast the incidence and prevalence of diseases, which was used to estimate the future medical claim cost and allocate the budget
 * Automated all reports using Power BI enabling informed decisions about product pricing and contract negotiation,
