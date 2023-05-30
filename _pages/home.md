@@ -18,7 +18,8 @@ Assistant Manager, BI Data Science | [WeLab Bank](https://www.welab.bank/en/)
 Provided end-to-end data science solutions for digital banking with the latest technology  
 
 Associate Data Scientist | [Cathay Pacific](https://www.cathaypacific.com/cx/en_CA.html)
-:   Python/Hadoop/PySpark/AWS/SQL  
+:   Python/Hadoop/PySpark/AWS/SQL
+
 Implemented advanced analytics and Machine learning models to solve different business challenges in the loyalty program, marketing, and e-commerce platform. Built and maintained production-level ML models, collaborating with data scientists and data engineers using Git
 with CI/CD and Confluence
 * Led the chatbot optimization project
