@@ -2,14 +2,13 @@
 layout: single
 author_profile: true
 
-title: "My Portfolio"
+title: "About me"
 permalink: /
 header:
 #   image: "/images/tea.jpg"
 
 ---
 
-# My Portfolio
 I am a data scientist with 6+ years of experience with machine learning and advanced analytics.
 
 ## Work Experience
@@ -18,7 +17,7 @@ I am a data scientist with 6+ years of experience with machine learning and adva
 :   Python/SQL/Google Cloud Platform: BigQuery, dbt, Looker, Vertex AI  
 Provided end-to-end data science solutions for digital banking with the latest technology  
 
-### Associate Data Scientist | [Cathay Pacific](https://www.cathaypacific.com/cx/en_CA.html)
+Associate Data Scientist | [Cathay Pacific](https://www.cathaypacific.com/cx/en_CA.html)
 :   Python/Hadoop/PySpark/AWS/SQL  
 Implemented advanced analytics and Machine learning models to solve different business challenges in the loyalty program, marketing, and e-commerce platform. Built and maintained production-level ML models, collaborating with data scientists and data engineers using Git
 with CI/CD and Confluence
