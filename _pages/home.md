@@ -22,16 +22,16 @@ Associate Data Scientist | [Cathay Pacific](https://www.cathaypacific.com/cx/en_
 :   Implemented advanced analytics and Machine learning models to solve different business challenges in the famous loyalty program, [Asia Miles](https://www.asiamiles.com/en/home.html). 
 :   Built and maintained production-level ML models, collaborating with data scientists and data engineers using Git
 with CI/CD and Confluence
-* Chatbot optimization project
-    * Implemented Topic Modelling to enhance the content of the chatbot, improving goal completion rate by 20% 
-    * NLP, DistilBERT, clustering, TensorFlow
-* Propensity model for targeted EDM
-    * Built a classification model to predict the probability of customers who want to apply credit cards. Generated a list for EDM every monthly, resulting in an 18% increase in conversion rate 
-    * Python, LightGBM
-* Customer's journey analysis
-    * Implemented Multi-Touch and Markov Chain attribution models to analyze the interaction between touchpoints marketing campaings, resulting in lower cost per conversion
-* A/B testings
-    * Conducted A/B testings for personalized EDM marketing for different market segments, resulting in higher open rate and click-to-open rate with statistical significance
+    * Chatbot optimization project
+        * Implemented Topic Modelling to enhance the content of the chatbot, improving goal completion rate by 20% 
+        * NLP, DistilBERT, clustering, TensorFlow
+    * Propensity model for targeted EDM
+        * Built a classification model to predict the probability of customers who want to apply credit cards. Generated a list for EDM every monthly, resulting in an 18% increase in conversion rate 
+        * Python, LightGBM
+    * Customer's journey analysis
+        * Implemented Multi-Touch and Markov Chain attribution models to analyze the interaction between touchpoints marketing campaings, resulting in lower cost per conversion
+    * A/B testings
+        * Conducted A/B testings for personalized EDM marketing for different market segments, resulting in higher open rate and click-to-open rate with statistical significance
 
 #### Senior Data Analyst | [Bupa](https://www.bupa.com.hk/en/)
 Data Analyst | [Bupa](https://www.bupa.com.hk/en/)
