@@ -2,11 +2,9 @@
 title: "The project I did to land my first data scientist job"
 author: "Leo Leung"
 link: https://medium.com/@leoleung-ch/the-project-i-did-to-land-my-first-data-scientist-job-97f5fb6dd0d9
-# date: 2020-09-02
-# tags: [NLP, Natural Language Inference, BERT, Deep Learning, TensorFlow, Python]
+date: 2023-05-22
+tags: [Python, XGBoost, Regression, Career]
 categories: Project
-header:
-  image: "/images/bert.jpg"
-# excerpt: "NLP, Natural Language Inference, BERT, Deep Learning, TensorFlow, Python"
+excerpt: "Python, XGBoost, Regression, Career"
 # mathjax: "true"
 ---
