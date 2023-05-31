@@ -15,13 +15,13 @@ I am a data scientist with extensive experience with machine learning, advanced 
 
 Assistant Manager, BI Data Science | [WeLab Bank](https://www.welab.bank/en/)
 :   Python/SQL/Google Cloud Platform: BigQuery, dbt, Looker, Vertex AI  
-:   Provided end-to-end data science solutions for digital banking with the latest technology  
+:   Provided end-to-end data science solutions for digital banking with the latest technology.
 
 Associate Data Scientist | [Cathay Pacific](https://www.cathaypacific.com/cx/en_CA.html)
 :   Python/Hadoop/PySpark/AWS/SQL
 :   Implemented advanced analytics and Machine learning models to solve different business challenges in the famous loyalty program, [Asia Miles](https://www.asiamiles.com/en/home.html). 
 :   Built and maintained production-level ML models, collaborating with data scientists and data engineers using Git
-with CI/CD and Confluence
+with CI/CD and Confluence.
     * Chatbot optimization project
         * Implemented Topic Modelling to enhance the content of the chatbot, improving goal completion rate by 20% 
         * NLP, DistilBERT, clustering, TensorFlow
