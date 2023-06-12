@@ -43,8 +43,8 @@ saving approximately 80% of manual work and providing more functionality
 * Built Logistic regression for lapse prediction
 
 ## Education
-### [MSc. Mathematical Finance, University of Birmingham](https://www.birmingham.ac.uk/postgraduate/courses/taught/maths/mathematical-finance.aspx)
-### [BSc. Statistics, The Chinese University of Hong Kong](https://www.sta.cuhk.edu.hk/programmes/b-sc-in-statistics/)
+#### [MSc. Mathematical Finance, University of Birmingham](https://www.birmingham.ac.uk/postgraduate/courses/taught/maths/mathematical-finance.aspx)
+#### [BSc. Statistics, The Chinese University of Hong Kong](https://www.sta.cuhk.edu.hk/programmes/b-sc-in-statistics/)
 
 ## Professional Certificates
 * [Microsoft Certified: Azure Data Scientist Associate](https://learn.microsoft.com/en-us/certifications/azure-data-scientist/)
